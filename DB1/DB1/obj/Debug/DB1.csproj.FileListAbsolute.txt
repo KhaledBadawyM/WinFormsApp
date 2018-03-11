@@ -1,0 +1,11 @@
+C:\Users\Khaled\Desktop\DB1\DB1\bin\Debug\DB1.exe.config
+C:\Users\Khaled\Desktop\DB1\DB1\bin\Debug\Database1.mdf
+C:\Users\Khaled\Desktop\DB1\DB1\bin\Debug\Database1_log.ldf
+C:\Users\Khaled\Desktop\DB1\DB1\bin\Debug\DB1.exe
+C:\Users\Khaled\Desktop\DB1\DB1\bin\Debug\DB1.pdb
+C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.csprojResolveAssemblyReference.cache
+C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.Form1.resources
+C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.Properties.Resources.resources
+C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.csproj.GenerateResource.Cache
+C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.exe
+C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.pdb
