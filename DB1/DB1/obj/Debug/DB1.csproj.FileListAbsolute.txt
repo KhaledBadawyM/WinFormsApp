@@ -9,3 +9,7 @@ C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.Properties.Resources.resources
 C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.csproj.GenerateResource.Cache
 C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.exe
 C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.pdb
+C:\Users\Khaled\Desktop\DB1\DB1\bin\Debug\DB1.exe.manifest
+C:\Users\Khaled\Desktop\DB1\DB1\bin\Debug\DB1.application
+C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.exe.manifest
+C:\Users\Khaled\Desktop\DB1\DB1\obj\Debug\DB1.application
